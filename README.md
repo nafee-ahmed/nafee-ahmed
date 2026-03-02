@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafee-ahmed&layout=compact)
 <!--
 **nafee-ahmed/nafee-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
