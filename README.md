@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafee-ahmed&hide=javascript,css,scss,html&theme=tokyonight)
 <!--
 **nafee-ahmed/nafee-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
